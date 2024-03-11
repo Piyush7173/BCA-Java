@@ -83,4 +83,3 @@ class assignment {
                 countEmployeesWithSalaryAbove(employees, 20000));
     }
 }
-Answe
